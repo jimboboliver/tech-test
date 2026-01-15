@@ -8,20 +8,6 @@ This template demonstrates the usage of [Data Stream Protocol](https://sdk.verce
 
 ## How to use
 
-Run [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example https://github.com/vercel-labs/ai-sdk-preview-python-streaming ai-sdk-preview-python-streaming-example
-```
-
-```bash
-yarn create next-app --example https://github.com/vercel-labs/ai-sdk-preview-python-streaming ai-sdk-preview-python-streaming-example
-```
-
-```bash
-pnpm create next-app --example https://github.com/vercel-labs/ai-sdk-preview-python-streaming ai-sdk-preview-python-streaming-example
-```
-
 To run the example locally you need to:
 
 1. Sign up for accounts with the AI providers you want to use (e.g., OpenAI, Anthropic).
